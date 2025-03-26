@@ -21,24 +21,5 @@ By exploring correlations between property characteristics (e.g., location, amen
 ## Tableau Visualization
 You can view the final presentation here: [Tableau Public](https://public.tableau.com/views/LAAirbnbListings-Capstone1Project/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Repository Structure
-```
-LA-Airbnb-Listings-Analysis/
-│── data/                  # Contains raw and cleaned dataset
-│── notebooks/             # Jupyter notebooks or Excel analysis files
-│── visualizations/        # Tableau screenshots or exports
-│── reports/               # Summary reports and findings
-│── README.md              # Project documentation (this file)
-```
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/LA-Airbnb-Listings-Analysis.git
-   cd LA-Airbnb-Listings-Analysis
-   ```
-2. Open the data or visualization files to explore the insights.
-3. Visit the Tableau link to interact with the dashboards.
-
 ## License
-This project is for educational purposes and is open for reference. Feel free to use and modify as needed.
+This project is for educational purposes and is open for reference. 
